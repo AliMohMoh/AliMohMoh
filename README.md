@@ -41,3 +41,9 @@
 </div>
 
 ###
+
+<h2 align="left">📈 My GitHub History</h2>
+
+###
+![Snake animation](https://github.com/AliMohMoh/AliMohMoh/blob/output/github-contribution-grid-snake.svg)
+
