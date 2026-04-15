@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=220&section=header&text=Ali%20Mohammed&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20|%20Problem%20Solver&descAlignY=60&descSize=22" alt="Header Banner" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=161B22&height=220&section=header&text=Ali%20Mohammed&fontSize=60&fontColor=58A6FF&animation=fadeIn&desc=Software%20Developer%20|%20Problem%20Solver&descAlignY=65&descSize=22&descColor=C9D1D9">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=F6F8FA&height=220&section=header&text=Ali%20Mohammed&fontSize=60&fontColor=0969DA&animation=fadeIn&desc=Software%20Developer%20|%20Problem%20Solver&descAlignY=65&descSize=22&descColor=57606A">
+    <img alt="Header Banner" src="https://capsule-render.vercel.app/api?type=waving&color=F6F8FA&height=220&section=header&text=Ali%20Mohammed&fontSize=60&fontColor=0969DA&animation=fadeIn&desc=Software%20Developer%20|%20Problem%20Solver&descAlignY=65&descSize=22&descColor=57606A" />
+  </picture>
 </div>
 
 <p align="center">
@@ -67,13 +71,13 @@
   
   <div>
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AliMohMoh&show_icons=true&theme=radical&hide_border=true&count_private=true">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AliMohMoh&show_icons=true&theme=github_dark&hide_border=true&count_private=true">
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=AliMohMoh&show_icons=true&theme=default&hide_border=true&count_private=true">
       <img alt="Ali's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=AliMohMoh&show_icons=true&theme=default&hide_border=true&count_private=true" width="48%" />
     </picture>
     &nbsp;&nbsp;
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=AliMohMoh&theme=radical&hide_border=true">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=AliMohMoh&theme=github_dark&hide_border=true">
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=AliMohMoh&theme=default&hide_border=true">
       <img alt="Ali's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AliMohMoh&theme=default&hide_border=true" width="48%" />
     </picture>
@@ -83,7 +87,7 @@
 
   <div>
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AliMohMoh&layout=compact&theme=radical&hide_border=true">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AliMohMoh&layout=compact&theme=github_dark&hide_border=true">
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AliMohMoh&layout=compact&theme=default&hide_border=true">
       <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliMohMoh&layout=compact&theme=default&hide_border=true" width="48%" />
     </picture>
@@ -93,5 +97,9 @@
 <br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=100&section=footer" alt="Footer Banner" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=161B22&height=100&section=footer">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=F6F8FA&height=100&section=footer">
+    <img alt="Footer Banner" src="https://capsule-render.vercel.app/api?type=waving&color=F6F8FA&height=100&section=footer" />
+  </picture>
 </p>
