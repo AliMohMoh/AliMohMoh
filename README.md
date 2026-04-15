@@ -27,6 +27,7 @@
   <p>
     ✨ <b>Creating bugs since 2018</b> 😂<br>
     💻 <b>Actively programming with:</b> <b>.NET</b>, <b>Django</b>, and <b>DevOps</b> 🤖<br>
+    🏗️ <b>Architecture:</b> Experienced in building scalable <b>Microservices</b> & <b>Monolithic</b> systems ⚙️<br>
     🎯 <b>Level:</b> Experienced Software Developer, currently stepping into a <b>Senior</b> role 📈<br>
     🎲 <b>Fun fact:</b> I'm a big fan of board play video games 🎲
   </p>
