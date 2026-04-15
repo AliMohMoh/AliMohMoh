@@ -9,9 +9,9 @@
 <p align="center">
   <a href="https://github.com/AliMohMoh">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Ali+👋;Software+Developer+from+Yemen;Turning+ideas+into+real+code;Creating+bugs+since+2018+😂;Learning+DevOps+and+.NET+🤖">
-      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0969DA&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Ali+👋;Software+Developer+from+Yemen;Turning+ideas+into+real+code;Creating+bugs+since+2018+😂;Learning+DevOps+and+.NET+🤖">
-      <img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0969DA&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Ali+👋;Software+Developer+from+Yemen;Turning+ideas+into+real+code;Creating+bugs+since+2018+😂;Learning+DevOps+and+.NET+🤖" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Ali+👋;Experienced+Software+Developer+💻;Building+Microservices+and+Monoliths+🏗️;Specialized+in+.NET+and+Django+⚙️;Creating+bugs+since+2018+😂;Stepping+into+a+Senior+role+🚀">
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0969DA&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Ali+👋;Experienced+Software+Developer+💻;Building+Microservices+and+Monoliths+🏗️;Specialized+in+.NET+and+Django+⚙️;Creating+bugs+since+2018+😂;Stepping+into+a+Senior+role+🚀">
+      <img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0969DA&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Ali+👋;Experienced+Software+Developer+💻;Building+Microservices+and+Monoliths+🏗️;Specialized+in+.NET+and+Django+⚙️;Creating+bugs+since+2018+😂;Stepping+into+a+Senior+role+🚀" />
     </picture>
   </a>
 </p>
@@ -19,6 +19,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AliMohMoh&label=Profile%20Views&color=0969DA&style=flat" alt="Profile Views" />
 </p>
+
 
 <br>
 
